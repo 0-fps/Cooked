@@ -1,0 +1,3 @@
+Config:
+  PermissionItem: "cooked.itemcook"
+  PermissionMob: "cooked.mobcook"

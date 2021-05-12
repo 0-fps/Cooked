@@ -1,0 +1,11 @@
+main: dev.fps.Cooked.Cooked
+
+api-version: 1.16
+
+version: 1.0
+
+name: Cooked
+
+commands:
+  cooked:
+    description: principal command
